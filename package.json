@@ -1,0 +1,15 @@
+{
+  "name": "keygen-machinefile-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-machine-id": "^1.1.12"
+  }
+}
